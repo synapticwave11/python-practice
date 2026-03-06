@@ -9,7 +9,5 @@ print("Subraction:",(a-b))
 print("Multiplication:",(a*b))
 print("Division:",(a/b))
 
-#Squares and cubes
 
-n=4
-print("Square")
+
