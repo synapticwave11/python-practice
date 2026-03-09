@@ -9,5 +9,8 @@ print("Subraction:",(a-b))
 print("Multiplication:",(a*b))
 print("Division:",(a/b))
 
+#print sqaures of a and b
+
+
 
 
